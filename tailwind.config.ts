@@ -57,6 +57,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Dance studio custom colors
+        "dance-purple": "#773FA8",
+        "dance-teal": "#07AA8B",
+        "dance-yellow": "#FFCD00",
+        "dance-pink": "#C62094",
+        "dance-purple-alt": "#8930D6",
       },
       borderRadius: {
         lg: "var(--radius)",
